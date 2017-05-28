@@ -1,5 +1,8 @@
 # tinypng-api-utils
-Api utilities for tinypng
+Api utilities for [tinypng](https://tinypng.com/developers).
+
+Get your Api key here: https://tinypng.com/dashboard/developers
+
 
 ## optimize
 Commandline script to optimize images via tinypng api.
